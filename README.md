@@ -7,3 +7,6 @@ Key highlights of this strategy include:
 1. Dynamic Order Slicing: Adapts execution sizes based on real-time volatility and volume estimations. <br>
 2. Improved Execution Efficiency: Reduces slippage and enhances trading outcomes in volatile market conditions. <br>
 3. Scalable & Practical: Offers a robust foundation for developing advanced adaptive execution algorithms.
+<br>
+
+Author: Ritwika Chattopadhyay
